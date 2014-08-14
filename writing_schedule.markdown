@@ -1,6 +1,5 @@
 #Writing Schedule
-##Day 1 Brainstorming/Mindmapping - Tuesday
-### 2 hours or 4 pomodoros max
+##Day 1 Brainstorming/Mindmapping - (2 hours or 4 pomodoros max)
 - Start with a list of topics (draftin, audience interaction, safari research, old blog posts)
 - Pick one topic. Make into headers:
     1. Who are we targeting? What are we going to teach them? Gut check: is it worth their time to read?
