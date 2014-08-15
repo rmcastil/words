@@ -11,9 +11,7 @@
 - Note any article associated with the idea (for points and counter points)
 - BONUS: Write a super rough draft that covers all the points.
 
-
-##Day 2 Research/Revisions - Wednesday
-### 2 hours or 4 pomodoros max
+##Day 2 Research/Revisions - (2 hours or 4 pomodoros max)
 - Write a rough (sloppy) draft for each header section using the bullet points.
 - First section is usually the only 'I' section. The personal story to connect with reader's pain.
 - The second section is the proof, research and other stories to connect with the reader's dream.
