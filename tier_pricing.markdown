@@ -4,6 +4,10 @@
 - The action to take is offering actual tiers or packages in their pricing.
 - keywords: clients, proposals, conversion
 
+##Introduction (Price Discrimination, SaaS Pricing, etc)
+- PS3 Bundle
+- shoe bundles
+
 After playing around with the Destiny bundle I've been shopping around for a PS4. I know, I know. I barely have enough time to write how in the world will I find time for video games? :)
 
 The really interesting thing I found is what turned up after doing a quick google search for the PS4.
@@ -11,9 +15,26 @@ The really interesting thing I found is what turned up after doing a quick googl
 INSERT IMAGE HERE
 
 There were three different deals for PS4s! Instead of it being a decision behind which console I was going to get it became a deal of which bundle I would get for what I wanted exactly. A console and a controller was pretty useless to me so why not pick up the bundle with two controllers and a game? No. I never got a PS4. A guy can dream right?
-##Introduction (Price Discrimination, SaaS Pricing, etc)
-- PS3 Bundle
-- shoe bundles
+
+---
+
+- A medium bag of popcorn costs just 60 cents to make but retails for $6, a whopping 900% markup. [http://money.cnn.com/galleries/2010/news/1001/gallery.americas_biggest_ripoffs/2.html]
+
+- McKenzie, author of the 2008 book "Why Popcorn Costs So Much at the Movies: And Other Pricing Puzzles," says that out of your $10 movie ticket, only a tiny percentage goes to the theater's profits. [http://money.cnn.com/galleries/2010/news/1001/gallery.americas_biggest_ripoffs/2.html]
+
+- Indeed, movie exhibition houses rely on concession sales to keep their businesses viable. Although concessions account for only about 20 percent of gross revenues, they represent some 40 percent of theaters’ profits. That’s because while ticket revenues must be shared with movie distributors, 100 percent of concessions go straight into an exhibitor’s coffers. [http://www.gsb.stanford.edu/news/research/hartmann.popcorn.html]
+
+-  Bundling is where you combine one product with another – like the popcorn-soda combo. Mixed bundling is where you offer combos like that, but also let people buy products – popcorn and soda – individually.  Here’s how it works: The theater charges the highest price it possibly can for soda and popcorn individually. But it offers a slight discount on the combo. [http://www.marketplace.org/topics/business/ive-always-wondered/why-does-popcorn-movies-cost-so-much]
+
+- Image of tiers http://www.tastyislandhawaii.com/images14/general/ward_theaters_menu2.jpg
+
+The other day my wife and I went to go see Guardians of the Galaxy. Now I don't know about you but I've got to have popcorn every time I got to the theater. It just has to happen. And my order is always the same, the Medium Popcorn with Medium Drink Combo. I never deviate from that.
+
+At the end of the movie though I noticed that I had finished all the popcorn but less than 50% of the drink. I usually shrug it off and just toss the drink but this time it got me thinking. Why don't I just go for the small drink with a medium Popcorn? This way I won't be so wasteful.
+
+The answer to this is the perceived savings from the combo. Sure it may be cheaper to go with the non-combo but if I spend a $1 more I got more bang for my buck. A deal! Everyone loves a good deal. Now I don't want to waste your time just talking about popcorn and the movies but the point of all this is that you can convert more proposals with different pricing experiments.
+
+Now most freelancers learn about a project, come up with a rate, and offer a proposal for the project. But you're not most freelancers. You're reading this today because you're looking for a competitive edge over your competition. Specifically you're looking to close more of your proposals.
 ##You Become Your Competition
 - instead of a client comparing your offer with a competitor they can compare your offer against your other offers.
 - This is like stacking the deck in your favor or increasing your percentages.
@@ -22,6 +43,10 @@ There were three different deals for PS4s! Instead of it being a decision behind
 "You see, if you present one rate — like $100 an hour — clients will focus just on that number. But when you pitch a lineup of packages, the Science of Price Anchoring will kick in and people will naturally start comparing you with yourself (i.e., your other packages), instead of you against all of your competitors." [http://doubleyourfreelancing.com/the-3-steps-you-need-to-take-to-start-packaging-your-services/]
 
 "People have trouble comparing different options, but if 2 of the options given are similar (e.g. same price), it becomes much easier." [http://conversionxl.com/pricing-experiments-you-might-not-know-but-can-learn-from/]
+
+---
+
+You can shift the conversation from your customer comparing your price to your competitors to instead them comparing to your different packages. You're essentially stacking the deck in your favor.
 ##Tier Your Proposal Around Your Customer's Needs
 - I'm currently in the middle of a proposal.
 - At a base level they need a web app recompiled for their new servers and OS.
@@ -39,6 +64,8 @@ There were three different deals for PS4s! Instead of it being a decision behind
 - what are your current circumstances?
 - do you need to take a full time client?
 - do you prefer to a client to be part time?
+
+It's true. The foundation of your proposal should be based on your client's needs. BUT your needs and circumstances are a close second. Are you looking for a full time engagement? Make it seem like a deal for them to take you on full time. For instance you could write a proposal where 
 ##Questions to Ask in Your Initial Client Interviews
 - What is your budget?
 - What are you trying to accomplish?
